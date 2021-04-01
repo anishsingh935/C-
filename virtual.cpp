@@ -37,6 +37,8 @@ int main ()
     o1.show();
 return 0;
 }
+
+//Some moere problem on virtual ..
 // #include<iostream> 
   
 // using namespace std; 
